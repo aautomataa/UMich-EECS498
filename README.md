@@ -15,7 +15,7 @@ Course Homepage: [EECS 498.008 / 598.008: Deep Learning for Computer Vision](htt
 - [Assignment 3: ](assignments/win2022/A3)
     - [Q1: Fully-Connected Neural Networks and Dropout](solutions/win2022/A3/fully_connected_networks.ipynb)
     - [Q2: Convolutional Neural Networks and Batch Normalization](solutions/win2022/A3/convolutional_networks.ipynb)
-    - [Extra Credit: Pytorch Autograd and NN](solutions/win2022/A3/pytorch_autograd_and_nn.ipynb)
+    - [Extra Credit: Pytorch Autograd and NN (from fall2020)](solutions/win2022/A3/pytorch_autograd_and_nn.ipynb)
 - [Assignment 4: ](assignments/win2022/A4)
     - [Q1: One-Stage Object Detector](solutions/win2022/A4/one_stage_detector.ipynb)
     - [Q2: Two-Stage Object Detector - Faster R-CNN](solutions/win2022/A4/two_stage_detector.ipynb)
