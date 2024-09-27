@@ -33,6 +33,5 @@ Course Homepage: [EECS 498.008 / 598.008: Deep Learning for Computer Vision](htt
     - [Q4: Style Transfer](solutions/win2022/A6/style_transfer.ipynb)
 
 
-
 ## Instruction
 本仓库主要包含 win2022 版的课程 slides，6 个 assignments + solutions 等，solutions 都是用 Google Colab TPU 跑出来的。
