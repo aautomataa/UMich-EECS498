@@ -35,4 +35,4 @@ Course Homepage: [EECS 498.008 / 598.008: Deep Learning for Computer Vision](htt
 
 
 ## Instruction
-本仓库主要包含 win2022 版的课程 slides，6 个 assignments + solutions 等，其中大部分 solutions 是在本地 3050ti 的显卡上跑的，也有的是在 Google Colab 平台上跑的。
+本仓库主要包含 win2022 版的课程 slides，6 个 assignments + solutions 等，solutions 都是用 Google Colab TPU 跑出来的。
